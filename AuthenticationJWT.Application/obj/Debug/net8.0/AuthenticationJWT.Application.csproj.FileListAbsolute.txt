@@ -1,0 +1,17 @@
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\bin\Debug\net8.0\AuthenticationJWT.Application.deps.json
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\bin\Debug\net8.0\AuthenticationJWT.Application.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\bin\Debug\net8.0\AuthenticationJWT.Application.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\bin\Debug\net8.0\AuthenticationJWT.Domain.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\bin\Debug\net8.0\AuthenticationJWT.Infra.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\bin\Debug\net8.0\AuthenticationJWT.Domain.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\bin\Debug\net8.0\AuthenticationJWT.Infra.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\AuthenticationJWT.Application.csproj.AssemblyReference.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\AuthenticationJWT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\AuthenticationJWT.Application.AssemblyInfoInputs.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\AuthenticationJWT.Application.AssemblyInfo.cs
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\AuthenticationJWT.Application.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\Authenti.FCE2AC23.Up2Date
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\AuthenticationJWT.Application.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\refint\AuthenticationJWT.Application.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\AuthenticationJWT.Application.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Application\obj\Debug\net8.0\ref\AuthenticationJWT.Application.dll

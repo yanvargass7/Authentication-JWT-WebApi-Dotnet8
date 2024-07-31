@@ -1,0 +1,17 @@
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\bin\Debug\net8.0\AuthenticationJWT.Infra.deps.json
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\bin\Debug\net8.0\AuthenticationJWT.Infra.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\bin\Debug\net8.0\AuthenticationJWT.Infra.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\bin\Debug\net8.0\AuthenticationJWT.Domain.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\bin\Debug\net8.0\AuthenticationJWT.Domain.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.csproj.AssemblyReference.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.AssemblyInfoInputs.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.AssemblyInfo.cs
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\Authenti.471125EB.Up2Date
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\refint\AuthenticationJWT.Infra.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\ref\AuthenticationJWT.Infra.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\bin\Debug\net8.0\AuthenticationJWT.Infra.runtimeconfig.json
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Infra\obj\Debug\net8.0\AuthenticationJWT.Infra.genruntimeconfig.cache

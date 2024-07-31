@@ -1,0 +1,12 @@
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\AuthenticationJWT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\AuthenticationJWT.Domain.AssemblyInfoInputs.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\AuthenticationJWT.Domain.AssemblyInfo.cs
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\AuthenticationJWT.Domain.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\bin\Debug\net8.0\AuthenticationJWT.Domain.deps.json
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\bin\Debug\net8.0\AuthenticationJWT.Domain.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\bin\Debug\net8.0\AuthenticationJWT.Domain.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\AuthenticationJWT.Domain.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\refint\AuthenticationJWT.Domain.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\AuthenticationJWT.Domain.pdb
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\ref\AuthenticationJWT.Domain.dll
+C:\PROJETOS\Authentication_JWT_WebApi_Dotnet8\AuthenticationJWT\AuthenticationJWT.Domain\obj\Debug\net8.0\AuthenticationJWT.Domain.csproj.AssemblyReference.cache
